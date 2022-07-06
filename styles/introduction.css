@@ -28,7 +28,7 @@
 
 .image_slideshow {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .space {
@@ -55,4 +55,9 @@ h2 {
 ul {
     float: left;
     font-size: 20px;
+}
+
+p {
+    clear: both;
+    padding: 10px;
 }
